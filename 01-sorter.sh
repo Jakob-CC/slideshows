@@ -1,3 +1,6 @@
+# rename all files first to 4p-0000x.jpg
+
+
 #!/bin/bash
 
 # Initialize counters and variables
