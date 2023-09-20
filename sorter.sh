@@ -5,7 +5,7 @@ folder=1
 file_count=0
 
 # Loop through all folders
-for dir in {1..8}; do
+for dir in {1..99}; do
   # Check if folder exists
   if [ -d "${dir}" ]; then
     # Loop through files in folder

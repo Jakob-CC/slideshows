@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Loop through all folders
-for dir in {1..8}; do
+for dir in {1..99}; do
   # Check if folder exists
   if [ -d "${dir}" ]; then
     # Change to folder
